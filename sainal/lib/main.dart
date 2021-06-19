@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(MyApp());
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Flutter Sainal Home Page'),
     );
   }
 }
@@ -71,6 +72,17 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
+        elevation: 0.0,
+        actions :<Widget> [
+          IconButton(
+          icon: Icon(
+            Icons.settings,
+            color:Colors.white,
+        ),
+        onPressed: (){
+
+        },)
+        ],
         title: Text(widget.title),
       ),
       body: Center(

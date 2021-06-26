@@ -94,7 +94,7 @@ class _MovieDetailState extends State<MovieDetailPage> {
                 runSpacing: 8.0,
                 children: List.generate(
                   _crews.length,
-                      (index) {
+                  (index) {
                     final crew = _crews[index];
                     return _buildCrew(
                       name: crew.name,

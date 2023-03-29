@@ -1,0 +1,12 @@
+com.example.nuarz_app-core-1.6.0-0 /Users/nuarz/.gradle/caches/transforms-3/7bdbfb09026823e72ff40d61c059dfff/transformed/core-1.6.0/res
+com.example.nuarz_app-jetified-annotation-experimental-1.1.0-1 /Users/nuarz/.gradle/caches/transforms-3/9022ba263c277383d61e4bf6088f6f9d/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.nuarz_app-jetified-window-1.0.0-beta04-2 /Users/nuarz/.gradle/caches/transforms-3/b2cfeb5192c68666c031db29530874ed/transformed/jetified-window-1.0.0-beta04/res
+com.example.nuarz_app-jetified-window-java-1.0.0-beta04-3 /Users/nuarz/.gradle/caches/transforms-3/dcdd0989f058fc33577d7d53052bc8a4/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.nuarz_app-debug-4 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/android/app/src/debug/res
+com.example.nuarz_app-main-5 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/android/app/src/main/res
+com.example.nuarz_app-pngs-6 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/generated/res/pngs/debug
+com.example.nuarz_app-resValues-7 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/generated/res/resValues/debug
+com.example.nuarz_app-rs-8 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/generated/res/rs/debug
+com.example.nuarz_app-mergeDebugResources-9 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.nuarz_app-mergeDebugResources-10 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.nuarz_app-merged_res-11 /Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/build/app/intermediates/merged_res/debug

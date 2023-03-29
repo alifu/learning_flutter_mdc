@@ -1,0 +1,1 @@
+/Users/nuarz/Works/FlutterProject/learning_flutter_mdc/nuarz_app/android/app/src/main/kotlin/com/example/nuarz_app/MainActivity.kt

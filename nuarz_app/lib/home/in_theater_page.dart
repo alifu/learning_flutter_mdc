@@ -42,13 +42,13 @@ class InTheaterPageState extends State<InTheaterPage>
         2,
         "Joker",
         8.0,
-        "https://creativereview.imgix.net/content/uploads/2019/12/joker_full.jpg?auto=compress,format&q=60&w=480",
+        "https://m.media-amazon.com/images/M/MV5BNjhmMWMwYzQtNzU3ZC00ODA4LTk3YjktMzk1YzgwNTVlNGU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
       ),
       MovieItemUiModel(
         3,
         "Ford v Ferrari",
         8.2,
-        "https://www.digitalartsonline.co.uk/cmsdata/slideshow/3662115/star-wars-last-jedi-poster.jpg",
+        "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
       ),
     ];
   }
